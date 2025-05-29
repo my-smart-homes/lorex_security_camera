@@ -1,0 +1,5 @@
+DOMAIN = "lorex_security_camera"
+CONF_HOST = "host"
+CONF_RTSP_PATH = "rtsp_path"
+CONF_USERNAME = "username"
+CONF_PASSWORD = "password"

@@ -1,0 +1,11 @@
+{
+  "domain": "lorex_security_camera",
+  "name": "Lorex Security Camera",
+  "version": "1.0.0",
+  "documentation": "https://github.com/yourusername/lorex_security_camera",
+  "requirements": ["ha-ffmpeg>=3.0.0"],
+  "dependencies": ["ffmpeg"],
+  "codeowners": ["@yourusername"],
+  "config_flow": true,
+  "iot_class": "local_polling"
+}
