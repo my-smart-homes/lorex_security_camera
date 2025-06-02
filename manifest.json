@@ -1,0 +1,13 @@
+{
+  "domain": "lorex_security_camera",
+  "name": "Lorex Security Camera",
+  "codeowners": ["@davet2001"],
+  "config_flow": true,
+  "dependencies": ["http", "stream"],
+  "documentation": "https://www.home-assistant.io/integrations",
+  "integration_type": "device",
+  "iot_class": "local_push",
+  "requirements": ["av==13.1.0", "Pillow==11.1.0"],
+  "version": "1.0.0",
+  "icon": "mdi:cctv"
+}
